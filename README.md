@@ -1,16 +1,17 @@
-### Hi there 👋
+## 안녕하세요
+* 홍익대학교 19학번 컴퓨터공학과 재학
+* 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2023.03 ~ 
+* Unity, C#, Unreal, C++ 개발
 
-<!--
-**hans4809/hans4809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Notion 링크 : 
 
-Here are some ideas to get you started:
+YouTube 링크 : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 기술 스택
+Language : C# C++
+
+Tool : Unity, Unreal
+
+
+# 개발 게임
