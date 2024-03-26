@@ -3,7 +3,7 @@
 * 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2023.03 ~ 
 * Unity, C#, Unreal, C++ 개발
 
-Notion 링크 : 
+Notion 링크 : https://www.notion.so/5dcca432fddc4e618cdcbe82a4126a96
 
 YouTube 링크 : 
 
